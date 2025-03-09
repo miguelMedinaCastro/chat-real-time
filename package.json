@@ -2,7 +2,7 @@
   "name": "chat-real-time",
   "version": "1.0.0",
   "description": "my first chat realtime app",
-  "main": "index.js",
+  "main": "server.js",
   "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
