@@ -7,11 +7,3 @@ projeto em andamento
 ## Funcionalidades
 - Envio e recebimento de mensagens em tempo real
 - Interface simples (no momento)
-
-## Instalação
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/miguelMedinaCastro/chat-real-time.git
-
-ou, [chat-realtime](https://chat-real-time-5sh1.onrender.com)
-
